@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">         CustomNavigation</string>
+    <string name="button">Button</string>
+    <string name="open">open</string>
+    <string name="outside_navigation">Outside Navigation</string>
+    <string name="inside_navigation">Inside Navigation</string>
+</resources>
